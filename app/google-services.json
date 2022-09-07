@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "680066630690",
+    "firebase_url": "https://proyecto-movil-maps-default-rtdb.firebaseio.com",
+    "project_id": "proyecto-movil-maps",
+    "storage_bucket": "proyecto-movil-maps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680066630690:android:c222c5eb59641443cfb67b",
+        "android_client_info": {
+          "package_name": "com.example.projectjavaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680066630690-noiiul50bnebuoc17fkdjha9lqnvrp79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNjurtriHDZizsK38fDP3paCSpWFNqCUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680066630690-noiiul50bnebuoc17fkdjha9lqnvrp79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680066630690:android:347e7172ac47f3f4cfb67b",
+        "android_client_info": {
+          "package_name": "com.example.proyectomapsmovil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680066630690-noiiul50bnebuoc17fkdjha9lqnvrp79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNjurtriHDZizsK38fDP3paCSpWFNqCUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680066630690-noiiul50bnebuoc17fkdjha9lqnvrp79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680066630690:android:dcf37a3b1224529dcfb67b",
+        "android_client_info": {
+          "package_name": "com.example.proyectomovilmaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680066630690-noiiul50bnebuoc17fkdjha9lqnvrp79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNjurtriHDZizsK38fDP3paCSpWFNqCUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680066630690-noiiul50bnebuoc17fkdjha9lqnvrp79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

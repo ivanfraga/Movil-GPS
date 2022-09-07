@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginScreen">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+        <TextView
+            android:id="@+id/txtHeaderLog"
+            android:layout_width="141dp"
+            android:layout_height="34dp"
+            android:layout_marginTop="64dp"
+            android:text="@string/txt_header_log"
+            android:textColor="#000000"
+            android:textSize="18sp"
+            />
+        <EditText
+            android:id="@+id/editTextTextEmailAddress"
+            android:layout_width="248dp"
+            android:layout_height="53dp"
+            android:layout_marginTop="68dp"
+            android:ems="10"
+            android:hint="@string/txt_correo"
+            android:inputType="textEmailAddress"
+            />
+
+        <EditText
+            android:id="@+id/editTextTextPassword"
+            android:layout_width="245dp"
+            android:layout_height="49dp"
+            android:layout_marginTop="48dp"
+            android:ems="10"
+            android:hint="@string/txt_password"
+            android:inputType="textPassword"
+ />
+
+
+
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="318dp"
+            android:layout_height="48dp"
+            android:text="@string/txt_button_login"
+            android:layout_marginBottom="75px"
+
+            />
+        <TextView
+            android:id="@+id/passwordReset"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="100dp"
+
+
+            android:text="¿Olvidaste la contrasña? Recuperar"
+            />
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="32dp"
+            android:onClick="IrRegistro"
+            android:text="@string/txt_ir_register"
+    />
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
